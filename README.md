@@ -6,12 +6,6 @@ I'm a full-stack web developer and I build really cool websites and web applicat
 
 ---
 
-### 📓 Blog Posts
-
-(Coming soon...)
-
-#
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
