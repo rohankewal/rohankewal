@@ -2,7 +2,7 @@
 
 **`Digital Artisan (Developer/Blogger/Creator)`**
 
-I'm a full-stack web developer and I build really cool websites and web applications. I also have a blog which you can check out at rohankewalblog.surge.sh.
+I'm a full-stack web developer and I build really cool websites and web applications. I also have a blog which you can check out at rohankewal.surge.sh.
 
 ---
 
