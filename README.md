@@ -29,9 +29,9 @@ I'm a full-stack web developer and I build really cool websites and web applicat
 
 ### 📊 Stats
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankewal&show_icons=true&theme=solarized-dark)
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankewal&show_icons=true&theme=catppuccin_mocha)
 
-![Rohan's GitHub Streak](https://streak-stats.demolab.com?user=rohankewal&theme=solarized-dark&border_radius=4.5)
+![Rohan's GitHub Streak](https://streak-stats.demolab.com?user=rohankewal&theme=catppuccin-mocha&border_radius=4.5)
 
 #
 
